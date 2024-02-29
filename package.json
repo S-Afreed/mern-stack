@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "node-afreed",
+  "version": "1.0.0",
+  "main": "iner.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node iner.js"
+  },
+  "author": "afreed",
+  "license": "ISC",
+  "description": ""
+}
